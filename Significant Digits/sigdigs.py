@@ -1,3 +1,7 @@
+"""
+Function to return the ammount of significant digits in a given number
+"""
+
 def sigdigs(num, ending):
     sig = 0
     num = str(num)
