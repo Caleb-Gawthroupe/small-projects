@@ -21,7 +21,7 @@ def notification():
         desc = "Go plug it in"
         
     requests.post('https://api.mynotifier.app', {
-    "apiKey": '36867e8c-320c-47cd-9eae-7f9e1f368cce',
+    "apiKey": '***_***_*****_**', #Hid the API Key from Git Hub
     "message": message,
     "description": desc,
     "type": "info", # info, error, warning or success
