@@ -221,21 +221,9 @@ while not done:
     
     player.score = round(player.score)
 
-
-
-
-
-    # -- AI LOGIC
-    #print(ai.inputs(player.x,player.y,ball.pos,ball.speed,coin.pos))
-
-
-
-
-
-
-    # --- Screen-clearing code goes here
-    
+    # -- Draw Function
     draw()
+ 
     # --- Go ahead and update the screen with what we've drawn.
     pygame.display.flip()
  
