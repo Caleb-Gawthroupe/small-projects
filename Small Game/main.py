@@ -1,6 +1,6 @@
 import pygame
 import random
-import ai
+
 # Define some colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
