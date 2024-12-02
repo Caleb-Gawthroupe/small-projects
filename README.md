@@ -9,3 +9,5 @@ pyCharge -> Combined the myNotify app on my iPhone with the task scheduler on wi
 snake -> the classic snake game built in pygame. 
 
 small game-> another random game to help me understand the pygame library.
+
+coding warcrime -> my comp sci teacher made a program to teach functions, and I decided to accomplish the same thing in a one liner.
